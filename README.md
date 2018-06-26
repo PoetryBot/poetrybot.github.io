@@ -1,8 +1,12 @@
-# Was ist PoetryBot?
+﻿# Was ist PoetryBot?
 
 PoetryBot erschafft expressive, absurde, interessante und oft richtig blöde Internet-Poesie aus visuellem Input.
 
+![](/img/internet-poems-1.jpg)
+
 PoBo [PoetryBot] spricht Deutsch und Englisch und verwendet Fotos aller Art, zB von deinem Handy. PoBo ist einfach zu nutzen und verbindet Fotografieren mit Dichten. So wird Poesie für wirklich jede_n ganz leicht herstellbar, zum Beispiel für Schüler_innen im Deutschunterricht, Pensionisten mit Smartphone (oder natürlich für edgy Trendsetter wie dich).
+
+![](/img/thermoprinter.jpg)
 
 # Wie kann ich PoetryBot verwenden?
 
@@ -42,6 +46,8 @@ Du hast ein tolles Foto von deinen neuen Sneakers gemacht und daraus ein Gedicht
 
 Nach ein bisschen Herumprobieren machst du ein Poem, das richtig cool geworden ist. Du möchtest es anderen zeigen und damit angeben. Kein Problem! Speichere es einfach auf der Website mit oder ohne deinem Namen und vergleiche es mit den Poems von anderen Leuten.
 
+![](/img/internet-poems-2.jpg)
+
 # Bitte, bitte, schickt mir Updates!
 
 PoBo hat einen Newsletter, der dich monatlich mit brandneuen Infos versorgt. Bis die erste Version (Alpha) fertig ist, gibt es noch viele spannende Zwischenschritte in der Entwicklung, die du nicht verpassen möchtest.
@@ -78,7 +84,7 @@ Mittels Machine Learning wollen wir hier verschiedene literarische Vektormodelle
 
 # Ich hab eine Frage / möchte mitmachen!
 
-Cool, das freut uns sehr! :) Schreib uns einfach jede Frage, die dich interessiert an **thepoetrybot@gmail.com**
+Cool, das freut uns sehr! Schreib uns einfach jede Frage, die dich interessiert an **thepoetrybot@gmail.com**
 
 Wenn du überlegst mitzumachen und du ein bisschen (oder sehr gut) Programmieren kannst, schau doch mal in [unserem GitHub-Repository](https://github.com/axr95/PoetryBot/) vorbei. PoBo ist derzeit in einer Mischung aus Processing (Java) und Python geschrieben.
 
