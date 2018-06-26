@@ -17,8 +17,11 @@ PoBo wird in zwei Versionen entwickelt. Zuerst kommt die einfache und schlanke e
 ### Das kannst du in der Alpha machen:
 
 1) Foto hochladen
+
 2) Automatisch generiertes Gedicht lesen
+
 3) Überschrift hinzufügen und Gedicht verbessern [wenn du möchtest]
+
 4) Gedicht als PDF herunterladen und versenden / drucken
 
 ### Für die Beta haben wir uns ein paar ziemlich coole Sachen überlegt:
@@ -43,15 +46,13 @@ Nach ein bisschen Herumprobieren machst du ein Poem, das richtig cool geworden i
 
 PoBo hat einen Newsletter, der dich monatlich mit brandneuen Infos versorgt. Bis die erste Version (Alpha) fertig ist, gibt es noch viele spannende Zwischenschritte in der Entwicklung, die du nicht verpassen möchtest.
 
-### So bleibst du up-to-date:
+### So bleibst du up-to-date
 
-Schick uns einfach eine kurze Mail an thepoetrybot@gmail.com mit deinem Vor- & Nachnamen und was du so machst (Schule, Studium, Beruf). Wir freuen uns auch über jede Art von Feedback - damit hilfst du uns, PoBo so gut wie möglich zu machen!
+Schick uns einfach eine kurze Mail an **thepoetrybot@gmail.com** mit deinem Vor- & Nachnamen und was du so machst (Schule, Studium, Beruf). Wir freuen uns auch über jede Art von Feedback - damit hilfst du uns, PoBo so gut wie möglich zu machen!
 
 # Und wer sind eigentlich die nicen Leute hinter PoetryBot?
 
-Wir sind drei kreative Typen mit einer Vision.
-
-Viele sagen, dass Gedichte schreiben richtig schwierig ist. Das ist aber Blödsinn. Jede_r kann Schreiben!  Wir wollen Poesie demokratisieren, das heißt: für alle ganz einfach machen, egal ob Anfänger oder Profi.
+Wir sind drei kreative Typen mit einer Vision. Viele sagen, dass Gedichte schreiben richtig schwierig ist. Das ist aber Blödsinn. Jede_r kann Schreiben!  Wir wollen Poesie demokratisieren, das heißt: für alle ganz einfach machen, egal ob Anfänger oder Profi.
 
 ![Foto Team]()
 
@@ -77,9 +78,7 @@ Mittels Machine Learning wollen wir hier verschiedene literarische Vektormodelle
 
 # Ich hab eine Frage / möchte mitmachen!
 
-**Cool, das freut uns sehr! :)**
-
-Schreib uns einfach jede Frage, die dich interessiert an thepoetrybot@gmail.com
+Cool, das freut uns sehr! :) Schreib uns einfach jede Frage, die dich interessiert an **thepoetrybot@gmail.com**
 
 Wenn du überlegst mitzumachen und du ein bisschen (oder sehr gut) Programmieren kannst, schau doch mal in [unserem GitHub-Repository](https://github.com/axr95/PoetryBot/) vorbei. PoBo ist derzeit in einer Mischung aus Processing (Java) und Python geschrieben.
 
