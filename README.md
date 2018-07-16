@@ -2,11 +2,11 @@
 
 PoetryBot erschafft expressive, absurde, interessante und oft richtig blöde Internet-Poesie aus visuellem Input.
 
-![](/img/internet-poems-1.jpg)
+![Ein paar spannende Internet-Gedichte](/img/internet-poems.jpg)
 
-PoBo [PoetryBot] spricht Deutsch und Englisch und verwendet Fotos aller Art, zB von deinem Handy. PoBo ist einfach zu nutzen und verbindet Fotografieren mit Dichten. So wird Poesie für wirklich jede_n ganz leicht herstellbar, zum Beispiel für Schüler_innen im Deutschunterricht, Pensionisten mit Smartphone (oder natürlich für edgy Trendsetter wie dich).
+PoBo [PoetryBot] spricht Deutsch und Englisch und verwendet Fotos aller Art, zB von deinem Handy. PoBo ist einfach zu nutzen und verbindet Fotografieren mit Dichten. So wird Poesie für wirklich jede_n ganz leicht herstellbar, zum Beispiel für Schüler_innen im Deutschunterricht, Pensionist_innen mit Smartphone (oder natürlich für edgy Trendsetter wie dich).
 
-![](/img/thermoprinter.jpg)
+![Unser Epson-Drucker](/img/thermoprinter.jpg)
 
 # Wie kann ich PoetryBot verwenden?
 
@@ -46,7 +46,7 @@ Du hast ein tolles Foto von deinen neuen Sneakers gemacht und daraus ein Gedicht
 
 Nach ein bisschen Herumprobieren machst du ein Poem, das richtig cool geworden ist. Du möchtest es anderen zeigen und damit angeben. Kein Problem! Speichere es einfach auf der Website mit oder ohne deinem Namen und vergleiche es mit den Poems von anderen Leuten.
 
-![](/img/internet-poems-2.jpg)
+![PoetrBot wird verwendet](img/pobo-use.jpg)
 
 # Bitte, bitte, schickt mir Updates!
 
@@ -60,7 +60,7 @@ Schick uns einfach eine kurze Mail an **thepoetrybot@gmail.com** mit deinem Vor-
 
 Wir sind drei kreative Typen mit einer Vision. Viele sagen, dass Gedichte schreiben richtig schwierig ist. Das ist aber Blödsinn. Jede_r kann Schreiben!  Wir wollen Poesie demokratisieren, das heißt: für alle ganz einfach machen, egal ob Anfänger oder Profi.
 
-![Foto Team]()
+![PoetryBot-Team](img/pobo-team.jpg)
 
 Wir sind Fabian, Alexander und Florian (ja genau, die auf dem Foto!)
 
@@ -81,6 +81,8 @@ Hier werden für alle Wörter des verwendeten Quelltexts (zB drei Bücher von ve
 Das zweite Verfahren ist deutlich kniffliger und noch in Entwicklung.
 
 Mittels Machine Learning wollen wir hier verschiedene literarische Vektormodelle erstellen, die ihren Output kontextabhängig anpassen. Zum Beispiel soll damit bei Eingabe der Wörter "Sonne" und "Kirsche" der Output-Text signifikant sonniger (positiver/optimistischer) und kirschiger (fruchtiger) werden. Wir experimentieren hier derzeit im Bereich Natural Language Processing mit der word2vec-Technik und dem vortrainierten GloVe-Modell.
+
+![Ein Zwischen-Output vom LSTM-Modell](img/lstm-output.jpg)
 
 # Ich hab eine Frage / möchte mitmachen!
 
