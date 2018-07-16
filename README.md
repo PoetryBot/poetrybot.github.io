@@ -6,13 +6,13 @@ PoetryBot erschafft expressive, absurde, interessante und oft richtig blöde Int
 
 PoBo [PoetryBot] spricht Deutsch und Englisch und verwendet Fotos aller Art, zB von deinem Handy. PoBo ist einfach zu nutzen und verbindet Fotografieren mit Dichten. So wird Poesie für wirklich jede_n ganz leicht herstellbar, zum Beispiel für Schüler_innen im Deutschunterricht, Pensionist_innen mit Smartphone (oder natürlich für edgy Trendsetter wie dich).
 
-![Unser Epson-Drucker](/img/thermoprinter.jpg)
-
 # Wie kann ich PoetryBot verwenden?
 
 Derzeit ist PoBo noch nicht fertig.
 
 PoBo kann zwar schon sehr viel, ist aber noch sehr schwierig zu verwenden. Außerdem fehlt natürlich noch eine stylische Website, die das Online-Dichten für dich zu einer super Erfahrung macht. Eine Erfahrung, die so toll ist, dass du gar nicht mehr aufhören möchtest - versprochen!
+
+![Unser Epson-Drucker](/img/thermoprinter.jpg)
 
 # OK, aber welche Features sind denn geplant?
 
